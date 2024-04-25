@@ -29,3 +29,5 @@ plan: Lets the user create a meal plan for the whole week (monday-sunday).
 save: Lets the user create a shopping list for all the ingredients needed to
       make every meal in the table "meals". The list will be printed to a
       file.
+
+exit: Ends the application.
