@@ -14,9 +14,9 @@ public final class PropertiesUtil {
 
     private static void loadProperties() {
 
-        PROPERTIES.put("db.url", "jdbc:postgresql://localhost:5432/meals_db");
-        PROPERTIES.put("db.username", "postgres");
-        PROPERTIES.put("db.password", "1111");
+        PROPERTIES.put("db.url", "jdbc:postgresql://localhost:5431/meals_db");
+        PROPERTIES.put("db.username", "post");
+        PROPERTIES.put("db.password", "pass");
     }
 
     public static String get(String key) {
