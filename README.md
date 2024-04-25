@@ -1,7 +1,7 @@
 # meal-planner
 Basic JDBC application using postgreSQL driver.
 
-Hyperskill project (Java Backend Developer (Spring Boot)). Stage 6/6.
+Hyperskill project "Meal planner" (Java Backend Developer (Spring Boot)). Stage 6/6.
 
 The application lets the user save meals to a database. The meal 
 fals under a specific category (breakfast, lunch, dinner), it has 
