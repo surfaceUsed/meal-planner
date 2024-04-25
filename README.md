@@ -1,6 +1,8 @@
 # meal-planner
 Basic JDBC application using postgreSQL driver.
 
+Hyperskill project. Stage 6/6.
+
 The application lets the user save meals to a database. The meal 
 fals under a sertain category (breakfast, lunch, dinner), it has 
 a name and consists of a set of ingredients. When a meal entry is 
