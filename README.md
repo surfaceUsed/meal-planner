@@ -5,14 +5,14 @@ Hyperskill project. Stage 6/6.
 
 The application lets the user save meals to a database. The meal 
 fals under a sertain category (breakfast, lunch, dinner), it has 
-a name and consists of a set of ingredients. When a meal entry is 
-added to the database, the meal is given a unique ID (integer), and
-is saved in the table "meals". The ingredients that go with the spesific
-meal are saved in i different table, but the table also saves the meal ID
-the spesific ingredients belong to. Each ingredient entry is given its own
-ID-number. If the same ingredient is already in the table, the new
-ingredient entry will be given the same ingredient ID as the previous
-entries. 
+a name and consists of a set of ingredients. 
+When a meal entry is added to the database, the meal is given a unique ID 
+(integer), and is saved in the table "meals". 
+The ingredients that go with the spesific meal are saved in i different 
+table, but the table also saves the meal ID the spesific ingredients 
+belongs to. Each ingredient entry is given its own ID-number. 
+If the same ingredient is already in the table, the new ingredient 
+entry will be given the same ingredient ID as the previous entry. 
 
 The user is presented with 5 options:
 
