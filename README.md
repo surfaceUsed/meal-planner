@@ -14,11 +14,11 @@ entries.
 
 The user is presented with 5 options:
 
-add: This option inserts a new meal entry into the database. 
+"add": This option inserts a new meal entry into the database. 
 
-show: Lists all the meal entries by category (breakfast, lunch, dinner).
+"show": Lists all the meal entries by category (breakfast, lunch, dinner).
 
-plan: Lets the user create a meal plan for the whole week (monday-sunday). 
+"plan": Lets the user create a meal plan for the whole week (monday-sunday). 
       The user is presented with a list of potential meals (previous meal
       enries) sorted by category, and can pick between them. When the plan
       is created, it will be listed in the console window, and added to the 
@@ -26,8 +26,8 @@ plan: Lets the user create a meal plan for the whole week (monday-sunday).
       When the user wants to create a new plan, i entries in the table will 
       be deleted, and the new meal plan will take its place. 
       
-save: Lets the user create a shopping list for all the ingredients needed to
+"save": Lets the user create a shopping list for all the ingredients needed to
       make every meal in the table "meals". The list will be printed to a
       file.
 
-exit: Ends the application.
+"exit": Ends the application.
